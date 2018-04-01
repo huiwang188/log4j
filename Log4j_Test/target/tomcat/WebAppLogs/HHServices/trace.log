@@ -1,0 +1,190 @@
+TRACE [localhost-startStop-1] 2018-04-01 15:54:38 (XmlConfigurationProvider.java:207) Parsing configuration file [struts-default.xml]
+TRACE [localhost-startStop-1] 2018-04-01 15:54:38 (XmlConfigurationProvider.java:207) Parsing configuration file [struts-plugin.xml]
+TRACE [localhost-startStop-1] 2018-04-01 15:54:38 (XmlConfigurationProvider.java:207) Parsing configuration file [struts.xml]
+TRACE [localhost-startStop-1] 2018-04-01 15:54:38 (AbstractBeanSelectionProvider.java:66) Choosing bean (struts) for (com.opensymphony.xwork2.ObjectFactory)
+TRACE [localhost-startStop-1] 2018-04-01 15:54:38 (AbstractBeanSelectionProvider.java:66) Choosing bean (struts) for (com.opensymphony.xwork2.factory.ActionFactory)
+TRACE [localhost-startStop-1] 2018-04-01 15:54:38 (AbstractBeanSelectionProvider.java:66) Choosing bean (struts) for (com.opensymphony.xwork2.factory.ResultFactory)
+TRACE [localhost-startStop-1] 2018-04-01 15:54:38 (AbstractBeanSelectionProvider.java:66) Choosing bean (struts) for (com.opensymphony.xwork2.factory.ConverterFactory)
+TRACE [localhost-startStop-1] 2018-04-01 15:54:38 (AbstractBeanSelectionProvider.java:66) Choosing bean (struts) for (com.opensymphony.xwork2.factory.InterceptorFactory)
+TRACE [localhost-startStop-1] 2018-04-01 15:54:38 (AbstractBeanSelectionProvider.java:66) Choosing bean (struts) for (com.opensymphony.xwork2.factory.ValidatorFactory)
+TRACE [localhost-startStop-1] 2018-04-01 15:54:38 (AbstractBeanSelectionProvider.java:66) Choosing bean (struts) for (com.opensymphony.xwork2.factory.UnknownHandlerFactory)
+TRACE [localhost-startStop-1] 2018-04-01 15:54:38 (AbstractBeanSelectionProvider.java:66) Choosing bean (struts) for (com.opensymphony.xwork2.FileManagerFactory)
+TRACE [localhost-startStop-1] 2018-04-01 15:54:38 (AbstractBeanSelectionProvider.java:66) Choosing bean (struts) for (com.opensymphony.xwork2.conversion.impl.XWorkConverter)
+TRACE [localhost-startStop-1] 2018-04-01 15:54:38 (AbstractBeanSelectionProvider.java:66) Choosing bean (struts) for (com.opensymphony.xwork2.conversion.impl.CollectionConverter)
+TRACE [localhost-startStop-1] 2018-04-01 15:54:38 (AbstractBeanSelectionProvider.java:66) Choosing bean (struts) for (com.opensymphony.xwork2.conversion.impl.ArrayConverter)
+TRACE [localhost-startStop-1] 2018-04-01 15:54:38 (AbstractBeanSelectionProvider.java:66) Choosing bean (struts) for (com.opensymphony.xwork2.conversion.impl.DateConverter)
+TRACE [localhost-startStop-1] 2018-04-01 15:54:38 (AbstractBeanSelectionProvider.java:66) Choosing bean (struts) for (com.opensymphony.xwork2.conversion.impl.NumberConverter)
+TRACE [localhost-startStop-1] 2018-04-01 15:54:38 (AbstractBeanSelectionProvider.java:66) Choosing bean (struts) for (com.opensymphony.xwork2.conversion.impl.StringConverter)
+TRACE [localhost-startStop-1] 2018-04-01 15:54:38 (AbstractBeanSelectionProvider.java:66) Choosing bean (struts) for (com.opensymphony.xwork2.conversion.ConversionPropertiesProcessor)
+TRACE [localhost-startStop-1] 2018-04-01 15:54:38 (AbstractBeanSelectionProvider.java:66) Choosing bean (struts) for (com.opensymphony.xwork2.conversion.ConversionFileProcessor)
+TRACE [localhost-startStop-1] 2018-04-01 15:54:38 (AbstractBeanSelectionProvider.java:66) Choosing bean (struts) for (com.opensymphony.xwork2.conversion.ConversionAnnotationProcessor)
+TRACE [localhost-startStop-1] 2018-04-01 15:54:38 (AbstractBeanSelectionProvider.java:66) Choosing bean (struts) for (com.opensymphony.xwork2.conversion.TypeConverterCreator)
+TRACE [localhost-startStop-1] 2018-04-01 15:54:38 (AbstractBeanSelectionProvider.java:66) Choosing bean (struts) for (com.opensymphony.xwork2.conversion.TypeConverterHolder)
+TRACE [localhost-startStop-1] 2018-04-01 15:54:38 (AbstractBeanSelectionProvider.java:75) Choosing bean (struts) for (com.opensymphony.xwork2.TextProvider) to be loaded from the ObjectFactory
+TRACE [localhost-startStop-1] 2018-04-01 15:54:38 (AbstractBeanSelectionProvider.java:75) Choosing bean (struts) for (com.opensymphony.xwork2.TextProvider) to be loaded from the ObjectFactory
+TRACE [localhost-startStop-1] 2018-04-01 15:54:38 (AbstractBeanSelectionProvider.java:66) Choosing bean (struts) for (com.opensymphony.xwork2.TextProviderFactory)
+TRACE [localhost-startStop-1] 2018-04-01 15:54:38 (AbstractBeanSelectionProvider.java:66) Choosing bean (struts) for (com.opensymphony.xwork2.LocaleProviderFactory)
+TRACE [localhost-startStop-1] 2018-04-01 15:54:38 (AbstractBeanSelectionProvider.java:66) Choosing bean (struts) for (com.opensymphony.xwork2.LocalizedTextProvider)
+TRACE [localhost-startStop-1] 2018-04-01 15:54:38 (AbstractBeanSelectionProvider.java:66) Choosing bean (struts) for (com.opensymphony.xwork2.ActionProxyFactory)
+TRACE [localhost-startStop-1] 2018-04-01 15:54:38 (AbstractBeanSelectionProvider.java:66) Choosing bean (struts) for (com.opensymphony.xwork2.conversion.ObjectTypeDeterminer)
+TRACE [localhost-startStop-1] 2018-04-01 15:54:38 (AbstractBeanSelectionProvider.java:66) Choosing bean (struts) for (org.apache.struts2.dispatcher.mapper.ActionMapper)
+TRACE [localhost-startStop-1] 2018-04-01 15:54:38 (AbstractBeanSelectionProvider.java:66) Choosing bean (jakarta) for (org.apache.struts2.dispatcher.multipart.MultiPartRequest)
+TRACE [localhost-startStop-1] 2018-04-01 15:54:38 (AbstractBeanSelectionProvider.java:66) Choosing bean (struts) for (org.apache.struts2.views.freemarker.FreemarkerManager)
+TRACE [localhost-startStop-1] 2018-04-01 15:54:38 (AbstractBeanSelectionProvider.java:75) Choosing bean (struts) for (org.apache.struts2.views.velocity.VelocityManager) to be loaded from the ObjectFactory
+TRACE [localhost-startStop-1] 2018-04-01 15:54:38 (AbstractBeanSelectionProvider.java:66) Choosing bean (struts) for (org.apache.struts2.components.UrlRenderer)
+TRACE [localhost-startStop-1] 2018-04-01 15:54:38 (AbstractBeanSelectionProvider.java:66) Choosing bean (struts) for (com.opensymphony.xwork2.validator.ActionValidatorManager)
+TRACE [localhost-startStop-1] 2018-04-01 15:54:38 (AbstractBeanSelectionProvider.java:66) Choosing bean (struts) for (com.opensymphony.xwork2.util.ValueStackFactory)
+TRACE [localhost-startStop-1] 2018-04-01 15:54:38 (AbstractBeanSelectionProvider.java:66) Choosing bean (struts) for (com.opensymphony.xwork2.util.reflection.ReflectionProvider)
+TRACE [localhost-startStop-1] 2018-04-01 15:54:38 (AbstractBeanSelectionProvider.java:66) Choosing bean (struts) for (com.opensymphony.xwork2.util.reflection.ReflectionContextFactory)
+TRACE [localhost-startStop-1] 2018-04-01 15:54:38 (AbstractBeanSelectionProvider.java:66) Choosing bean (struts) for (com.opensymphony.xwork2.util.PatternMatcher)
+TRACE [localhost-startStop-1] 2018-04-01 15:54:38 (AbstractBeanSelectionProvider.java:66) Choosing bean (struts) for (org.apache.struts2.util.ContentTypeMatcher)
+TRACE [localhost-startStop-1] 2018-04-01 15:54:38 (AbstractBeanSelectionProvider.java:66) Choosing bean (struts) for (org.apache.struts2.dispatcher.StaticContentLoader)
+TRACE [localhost-startStop-1] 2018-04-01 15:54:38 (AbstractBeanSelectionProvider.java:66) Choosing bean (struts) for (com.opensymphony.xwork2.UnknownHandlerManager)
+TRACE [localhost-startStop-1] 2018-04-01 15:54:38 (AbstractBeanSelectionProvider.java:66) Choosing bean (struts) for (org.apache.struts2.views.util.UrlHelper)
+TRACE [localhost-startStop-1] 2018-04-01 15:54:38 (AbstractBeanSelectionProvider.java:66) Choosing bean (struts) for (com.opensymphony.xwork2.util.TextParser)
+TRACE [localhost-startStop-1] 2018-04-01 15:54:38 (AbstractBeanSelectionProvider.java:66) Choosing bean (struts) for (org.apache.struts2.dispatcher.DispatcherErrorHandler)
+TRACE [localhost-startStop-1] 2018-04-01 15:54:38 (AbstractBeanSelectionProvider.java:66) Choosing bean (struts) for (com.opensymphony.xwork2.security.ExcludedPatternsChecker)
+TRACE [localhost-startStop-1] 2018-04-01 15:54:38 (AbstractBeanSelectionProvider.java:66) Choosing bean (struts) for (com.opensymphony.xwork2.security.AcceptedPatternsChecker)
+TRACE [localhost-startStop-1] 2018-04-01 15:54:38 (DefaultExcludedPatternsChecker.java:84) Sets excluded patterns [[(^|\%\{)((#?)(top(\.|\['|\[")|\[\d\]\.)?)(dojo|struts|session|request|response|application|servlet(Request|Response|Context)|parameters|context|_memberAccess)(\.|\[).*, .*(^|\.|\[|\'|"|get)class(\(\.|\[|\'|").*]]
+TRACE [localhost-startStop-1] 2018-04-01 15:54:38 (DefaultAcceptedPatternsChecker.java:73) Sets accepted patterns [[\w+((\.\w+)|(\[\d+\])|(\(\d+\))|(\['(\w|[\u4e00-\u9fa5])+'\])|(\('(\w|[\u4e00-\u9fa5])+'\)))*]]
+TRACE [localhost-startStop-1] 2018-04-01 15:54:38 (DefaultExcludedPatternsChecker.java:84) Sets excluded patterns [[(^|\%\{)((#?)(top(\.|\['|\[")|\[\d\]\.)?)(dojo|struts|session|request|response|application|servlet(Request|Response|Context)|parameters|context|_memberAccess)(\.|\[).*, .*(^|\.|\[|\'|"|get)class(\(\.|\[|\'|").*]]
+TRACE [localhost-startStop-1] 2018-04-01 15:54:38 (DefaultAcceptedPatternsChecker.java:73) Sets accepted patterns [[\w+((\.\w+)|(\[\d+\])|(\(\d+\))|(\['(\w|[\u4e00-\u9fa5])+'\])|(\('(\w|[\u4e00-\u9fa5])+'\)))*]]
+TRACE [localhost-startStop-1] 2018-04-01 15:54:38 (DefaultExcludedPatternsChecker.java:84) Sets excluded patterns [[(^|\%\{)((#?)(top(\.|\['|\[")|\[\d\]\.)?)(dojo|struts|session|request|response|application|servlet(Request|Response|Context)|parameters|context|_memberAccess)(\.|\[).*, .*(^|\.|\[|\'|"|get)class(\(\.|\[|\'|").*]]
+TRACE [localhost-startStop-1] 2018-04-01 15:54:38 (DefaultAcceptedPatternsChecker.java:73) Sets accepted patterns [[\w+((\.\w+)|(\[\d+\])|(\(\d+\))|(\['(\w|[\u4e00-\u9fa5])+'\])|(\('(\w|[\u4e00-\u9fa5])+'\)))*]]
+TRACE [localhost-startStop-1] 2018-04-01 15:54:38 (DefaultExcludedPatternsChecker.java:84) Sets excluded patterns [[(^|\%\{)((#?)(top(\.|\['|\[")|\[\d\]\.)?)(dojo|struts|session|request|response|application|servlet(Request|Response|Context)|parameters|context|_memberAccess)(\.|\[).*, .*(^|\.|\[|\'|"|get)class(\(\.|\[|\'|").*]]
+TRACE [localhost-startStop-1] 2018-04-01 15:54:38 (DefaultAcceptedPatternsChecker.java:73) Sets accepted patterns [[\w+((\.\w+)|(\[\d+\])|(\(\d+\))|(\['(\w|[\u4e00-\u9fa5])+'\])|(\('(\w|[\u4e00-\u9fa5])+'\)))*]]
+TRACE [localhost-startStop-1] 2018-04-01 15:54:38 (DefaultExcludedPatternsChecker.java:84) Sets excluded patterns [[(^|\%\{)((#?)(top(\.|\['|\[")|\[\d\]\.)?)(dojo|struts|session|request|response|application|servlet(Request|Response|Context)|parameters|context|_memberAccess)(\.|\[).*, .*(^|\.|\[|\'|"|get)class(\(\.|\[|\'|").*]]
+TRACE [localhost-startStop-1] 2018-04-01 15:54:38 (DefaultAcceptedPatternsChecker.java:73) Sets accepted patterns [[\w+((\.\w+)|(\[\d+\])|(\(\d+\))|(\['(\w|[\u4e00-\u9fa5])+'\])|(\('(\w|[\u4e00-\u9fa5])+'\)))*]]
+TRACE [localhost-startStop-1] 2018-04-01 15:54:38 (DefaultExcludedPatternsChecker.java:84) Sets excluded patterns [[(^|\%\{)((#?)(top(\.|\['|\[")|\[\d\]\.)?)(dojo|struts|session|request|response|application|servlet(Request|Response|Context)|parameters|context|_memberAccess)(\.|\[).*, .*(^|\.|\[|\'|"|get)class(\(\.|\[|\'|").*]]
+TRACE [localhost-startStop-1] 2018-04-01 15:54:38 (DefaultAcceptedPatternsChecker.java:73) Sets accepted patterns [[\w+((\.\w+)|(\[\d+\])|(\(\d+\))|(\['(\w|[\u4e00-\u9fa5])+'\])|(\('(\w|[\u4e00-\u9fa5])+'\)))*]]
+TRACE [localhost-startStop-1] 2018-04-01 15:54:38 (DefaultExcludedPatternsChecker.java:84) Sets excluded patterns [[(^|\%\{)((#?)(top(\.|\['|\[")|\[\d\]\.)?)(dojo|struts|session|request|response|application|servlet(Request|Response|Context)|parameters|context|_memberAccess)(\.|\[).*, .*(^|\.|\[|\'|"|get)class(\(\.|\[|\'|").*]]
+TRACE [localhost-startStop-1] 2018-04-01 15:54:38 (DefaultAcceptedPatternsChecker.java:73) Sets accepted patterns [[\w+((\.\w+)|(\[\d+\])|(\(\d+\))|(\['(\w|[\u4e00-\u9fa5])+'\])|(\('(\w|[\u4e00-\u9fa5])+'\)))*]]
+TRACE [localhost-startStop-1] 2018-04-01 15:55:19 (XmlConfigurationProvider.java:207) Parsing configuration file [struts-default.xml]
+TRACE [localhost-startStop-1] 2018-04-01 15:55:19 (XmlConfigurationProvider.java:207) Parsing configuration file [struts-plugin.xml]
+TRACE [localhost-startStop-1] 2018-04-01 15:55:19 (XmlConfigurationProvider.java:207) Parsing configuration file [struts.xml]
+TRACE [localhost-startStop-1] 2018-04-01 15:55:19 (AbstractBeanSelectionProvider.java:66) Choosing bean (struts) for (com.opensymphony.xwork2.ObjectFactory)
+TRACE [localhost-startStop-1] 2018-04-01 15:55:19 (AbstractBeanSelectionProvider.java:66) Choosing bean (struts) for (com.opensymphony.xwork2.factory.ActionFactory)
+TRACE [localhost-startStop-1] 2018-04-01 15:55:19 (AbstractBeanSelectionProvider.java:66) Choosing bean (struts) for (com.opensymphony.xwork2.factory.ResultFactory)
+TRACE [localhost-startStop-1] 2018-04-01 15:55:19 (AbstractBeanSelectionProvider.java:66) Choosing bean (struts) for (com.opensymphony.xwork2.factory.ConverterFactory)
+TRACE [localhost-startStop-1] 2018-04-01 15:55:19 (AbstractBeanSelectionProvider.java:66) Choosing bean (struts) for (com.opensymphony.xwork2.factory.InterceptorFactory)
+TRACE [localhost-startStop-1] 2018-04-01 15:55:19 (AbstractBeanSelectionProvider.java:66) Choosing bean (struts) for (com.opensymphony.xwork2.factory.ValidatorFactory)
+TRACE [localhost-startStop-1] 2018-04-01 15:55:19 (AbstractBeanSelectionProvider.java:66) Choosing bean (struts) for (com.opensymphony.xwork2.factory.UnknownHandlerFactory)
+TRACE [localhost-startStop-1] 2018-04-01 15:55:19 (AbstractBeanSelectionProvider.java:66) Choosing bean (struts) for (com.opensymphony.xwork2.FileManagerFactory)
+TRACE [localhost-startStop-1] 2018-04-01 15:55:19 (AbstractBeanSelectionProvider.java:66) Choosing bean (struts) for (com.opensymphony.xwork2.conversion.impl.XWorkConverter)
+TRACE [localhost-startStop-1] 2018-04-01 15:55:19 (AbstractBeanSelectionProvider.java:66) Choosing bean (struts) for (com.opensymphony.xwork2.conversion.impl.CollectionConverter)
+TRACE [localhost-startStop-1] 2018-04-01 15:55:19 (AbstractBeanSelectionProvider.java:66) Choosing bean (struts) for (com.opensymphony.xwork2.conversion.impl.ArrayConverter)
+TRACE [localhost-startStop-1] 2018-04-01 15:55:19 (AbstractBeanSelectionProvider.java:66) Choosing bean (struts) for (com.opensymphony.xwork2.conversion.impl.DateConverter)
+TRACE [localhost-startStop-1] 2018-04-01 15:55:19 (AbstractBeanSelectionProvider.java:66) Choosing bean (struts) for (com.opensymphony.xwork2.conversion.impl.NumberConverter)
+TRACE [localhost-startStop-1] 2018-04-01 15:55:19 (AbstractBeanSelectionProvider.java:66) Choosing bean (struts) for (com.opensymphony.xwork2.conversion.impl.StringConverter)
+TRACE [localhost-startStop-1] 2018-04-01 15:55:19 (AbstractBeanSelectionProvider.java:66) Choosing bean (struts) for (com.opensymphony.xwork2.conversion.ConversionPropertiesProcessor)
+TRACE [localhost-startStop-1] 2018-04-01 15:55:19 (AbstractBeanSelectionProvider.java:66) Choosing bean (struts) for (com.opensymphony.xwork2.conversion.ConversionFileProcessor)
+TRACE [localhost-startStop-1] 2018-04-01 15:55:19 (AbstractBeanSelectionProvider.java:66) Choosing bean (struts) for (com.opensymphony.xwork2.conversion.ConversionAnnotationProcessor)
+TRACE [localhost-startStop-1] 2018-04-01 15:55:19 (AbstractBeanSelectionProvider.java:66) Choosing bean (struts) for (com.opensymphony.xwork2.conversion.TypeConverterCreator)
+TRACE [localhost-startStop-1] 2018-04-01 15:55:19 (AbstractBeanSelectionProvider.java:66) Choosing bean (struts) for (com.opensymphony.xwork2.conversion.TypeConverterHolder)
+TRACE [localhost-startStop-1] 2018-04-01 15:55:19 (AbstractBeanSelectionProvider.java:75) Choosing bean (struts) for (com.opensymphony.xwork2.TextProvider) to be loaded from the ObjectFactory
+TRACE [localhost-startStop-1] 2018-04-01 15:55:19 (AbstractBeanSelectionProvider.java:75) Choosing bean (struts) for (com.opensymphony.xwork2.TextProvider) to be loaded from the ObjectFactory
+TRACE [localhost-startStop-1] 2018-04-01 15:55:19 (AbstractBeanSelectionProvider.java:66) Choosing bean (struts) for (com.opensymphony.xwork2.TextProviderFactory)
+TRACE [localhost-startStop-1] 2018-04-01 15:55:19 (AbstractBeanSelectionProvider.java:66) Choosing bean (struts) for (com.opensymphony.xwork2.LocaleProviderFactory)
+TRACE [localhost-startStop-1] 2018-04-01 15:55:19 (AbstractBeanSelectionProvider.java:66) Choosing bean (struts) for (com.opensymphony.xwork2.LocalizedTextProvider)
+TRACE [localhost-startStop-1] 2018-04-01 15:55:19 (AbstractBeanSelectionProvider.java:66) Choosing bean (struts) for (com.opensymphony.xwork2.ActionProxyFactory)
+TRACE [localhost-startStop-1] 2018-04-01 15:55:19 (AbstractBeanSelectionProvider.java:66) Choosing bean (struts) for (com.opensymphony.xwork2.conversion.ObjectTypeDeterminer)
+TRACE [localhost-startStop-1] 2018-04-01 15:55:19 (AbstractBeanSelectionProvider.java:66) Choosing bean (struts) for (org.apache.struts2.dispatcher.mapper.ActionMapper)
+TRACE [localhost-startStop-1] 2018-04-01 15:55:19 (AbstractBeanSelectionProvider.java:66) Choosing bean (jakarta) for (org.apache.struts2.dispatcher.multipart.MultiPartRequest)
+TRACE [localhost-startStop-1] 2018-04-01 15:55:19 (AbstractBeanSelectionProvider.java:66) Choosing bean (struts) for (org.apache.struts2.views.freemarker.FreemarkerManager)
+TRACE [localhost-startStop-1] 2018-04-01 15:55:19 (AbstractBeanSelectionProvider.java:75) Choosing bean (struts) for (org.apache.struts2.views.velocity.VelocityManager) to be loaded from the ObjectFactory
+TRACE [localhost-startStop-1] 2018-04-01 15:55:19 (AbstractBeanSelectionProvider.java:66) Choosing bean (struts) for (org.apache.struts2.components.UrlRenderer)
+TRACE [localhost-startStop-1] 2018-04-01 15:55:19 (AbstractBeanSelectionProvider.java:66) Choosing bean (struts) for (com.opensymphony.xwork2.validator.ActionValidatorManager)
+TRACE [localhost-startStop-1] 2018-04-01 15:55:19 (AbstractBeanSelectionProvider.java:66) Choosing bean (struts) for (com.opensymphony.xwork2.util.ValueStackFactory)
+TRACE [localhost-startStop-1] 2018-04-01 15:55:19 (AbstractBeanSelectionProvider.java:66) Choosing bean (struts) for (com.opensymphony.xwork2.util.reflection.ReflectionProvider)
+TRACE [localhost-startStop-1] 2018-04-01 15:55:19 (AbstractBeanSelectionProvider.java:66) Choosing bean (struts) for (com.opensymphony.xwork2.util.reflection.ReflectionContextFactory)
+TRACE [localhost-startStop-1] 2018-04-01 15:55:19 (AbstractBeanSelectionProvider.java:66) Choosing bean (struts) for (com.opensymphony.xwork2.util.PatternMatcher)
+TRACE [localhost-startStop-1] 2018-04-01 15:55:19 (AbstractBeanSelectionProvider.java:66) Choosing bean (struts) for (org.apache.struts2.util.ContentTypeMatcher)
+TRACE [localhost-startStop-1] 2018-04-01 15:55:19 (AbstractBeanSelectionProvider.java:66) Choosing bean (struts) for (org.apache.struts2.dispatcher.StaticContentLoader)
+TRACE [localhost-startStop-1] 2018-04-01 15:55:19 (AbstractBeanSelectionProvider.java:66) Choosing bean (struts) for (com.opensymphony.xwork2.UnknownHandlerManager)
+TRACE [localhost-startStop-1] 2018-04-01 15:55:19 (AbstractBeanSelectionProvider.java:66) Choosing bean (struts) for (org.apache.struts2.views.util.UrlHelper)
+TRACE [localhost-startStop-1] 2018-04-01 15:55:19 (AbstractBeanSelectionProvider.java:66) Choosing bean (struts) for (com.opensymphony.xwork2.util.TextParser)
+TRACE [localhost-startStop-1] 2018-04-01 15:55:19 (AbstractBeanSelectionProvider.java:66) Choosing bean (struts) for (org.apache.struts2.dispatcher.DispatcherErrorHandler)
+TRACE [localhost-startStop-1] 2018-04-01 15:55:19 (AbstractBeanSelectionProvider.java:66) Choosing bean (struts) for (com.opensymphony.xwork2.security.ExcludedPatternsChecker)
+TRACE [localhost-startStop-1] 2018-04-01 15:55:19 (AbstractBeanSelectionProvider.java:66) Choosing bean (struts) for (com.opensymphony.xwork2.security.AcceptedPatternsChecker)
+TRACE [localhost-startStop-1] 2018-04-01 15:55:19 (DefaultExcludedPatternsChecker.java:84) Sets excluded patterns [[(^|\%\{)((#?)(top(\.|\['|\[")|\[\d\]\.)?)(dojo|struts|session|request|response|application|servlet(Request|Response|Context)|parameters|context|_memberAccess)(\.|\[).*, .*(^|\.|\[|\'|"|get)class(\(\.|\[|\'|").*]]
+TRACE [localhost-startStop-1] 2018-04-01 15:55:19 (DefaultAcceptedPatternsChecker.java:73) Sets accepted patterns [[\w+((\.\w+)|(\[\d+\])|(\(\d+\))|(\['(\w|[\u4e00-\u9fa5])+'\])|(\('(\w|[\u4e00-\u9fa5])+'\)))*]]
+TRACE [localhost-startStop-1] 2018-04-01 15:55:19 (DefaultExcludedPatternsChecker.java:84) Sets excluded patterns [[(^|\%\{)((#?)(top(\.|\['|\[")|\[\d\]\.)?)(dojo|struts|session|request|response|application|servlet(Request|Response|Context)|parameters|context|_memberAccess)(\.|\[).*, .*(^|\.|\[|\'|"|get)class(\(\.|\[|\'|").*]]
+TRACE [localhost-startStop-1] 2018-04-01 15:55:19 (DefaultAcceptedPatternsChecker.java:73) Sets accepted patterns [[\w+((\.\w+)|(\[\d+\])|(\(\d+\))|(\['(\w|[\u4e00-\u9fa5])+'\])|(\('(\w|[\u4e00-\u9fa5])+'\)))*]]
+TRACE [localhost-startStop-1] 2018-04-01 15:55:19 (DefaultExcludedPatternsChecker.java:84) Sets excluded patterns [[(^|\%\{)((#?)(top(\.|\['|\[")|\[\d\]\.)?)(dojo|struts|session|request|response|application|servlet(Request|Response|Context)|parameters|context|_memberAccess)(\.|\[).*, .*(^|\.|\[|\'|"|get)class(\(\.|\[|\'|").*]]
+TRACE [localhost-startStop-1] 2018-04-01 15:55:19 (DefaultAcceptedPatternsChecker.java:73) Sets accepted patterns [[\w+((\.\w+)|(\[\d+\])|(\(\d+\))|(\['(\w|[\u4e00-\u9fa5])+'\])|(\('(\w|[\u4e00-\u9fa5])+'\)))*]]
+TRACE [localhost-startStop-1] 2018-04-01 15:55:19 (DefaultExcludedPatternsChecker.java:84) Sets excluded patterns [[(^|\%\{)((#?)(top(\.|\['|\[")|\[\d\]\.)?)(dojo|struts|session|request|response|application|servlet(Request|Response|Context)|parameters|context|_memberAccess)(\.|\[).*, .*(^|\.|\[|\'|"|get)class(\(\.|\[|\'|").*]]
+TRACE [localhost-startStop-1] 2018-04-01 15:55:19 (DefaultAcceptedPatternsChecker.java:73) Sets accepted patterns [[\w+((\.\w+)|(\[\d+\])|(\(\d+\))|(\['(\w|[\u4e00-\u9fa5])+'\])|(\('(\w|[\u4e00-\u9fa5])+'\)))*]]
+TRACE [localhost-startStop-1] 2018-04-01 15:55:19 (DefaultExcludedPatternsChecker.java:84) Sets excluded patterns [[(^|\%\{)((#?)(top(\.|\['|\[")|\[\d\]\.)?)(dojo|struts|session|request|response|application|servlet(Request|Response|Context)|parameters|context|_memberAccess)(\.|\[).*, .*(^|\.|\[|\'|"|get)class(\(\.|\[|\'|").*]]
+TRACE [localhost-startStop-1] 2018-04-01 15:55:19 (DefaultAcceptedPatternsChecker.java:73) Sets accepted patterns [[\w+((\.\w+)|(\[\d+\])|(\(\d+\))|(\['(\w|[\u4e00-\u9fa5])+'\])|(\('(\w|[\u4e00-\u9fa5])+'\)))*]]
+TRACE [localhost-startStop-1] 2018-04-01 15:55:19 (DefaultExcludedPatternsChecker.java:84) Sets excluded patterns [[(^|\%\{)((#?)(top(\.|\['|\[")|\[\d\]\.)?)(dojo|struts|session|request|response|application|servlet(Request|Response|Context)|parameters|context|_memberAccess)(\.|\[).*, .*(^|\.|\[|\'|"|get)class(\(\.|\[|\'|").*]]
+TRACE [localhost-startStop-1] 2018-04-01 15:55:19 (DefaultAcceptedPatternsChecker.java:73) Sets accepted patterns [[\w+((\.\w+)|(\[\d+\])|(\(\d+\))|(\['(\w|[\u4e00-\u9fa5])+'\])|(\('(\w|[\u4e00-\u9fa5])+'\)))*]]
+TRACE [localhost-startStop-1] 2018-04-01 15:55:19 (DefaultExcludedPatternsChecker.java:84) Sets excluded patterns [[(^|\%\{)((#?)(top(\.|\['|\[")|\[\d\]\.)?)(dojo|struts|session|request|response|application|servlet(Request|Response|Context)|parameters|context|_memberAccess)(\.|\[).*, .*(^|\.|\[|\'|"|get)class(\(\.|\[|\'|").*]]
+TRACE [localhost-startStop-1] 2018-04-01 15:55:19 (DefaultAcceptedPatternsChecker.java:73) Sets accepted patterns [[\w+((\.\w+)|(\[\d+\])|(\(\d+\))|(\['(\w|[\u4e00-\u9fa5])+'\])|(\('(\w|[\u4e00-\u9fa5])+'\)))*]]
+TRACE [localhost-startStop-1] 2018-04-01 15:57:14 (XmlConfigurationProvider.java:207) Parsing configuration file [struts-default.xml]
+TRACE [localhost-startStop-1] 2018-04-01 15:57:14 (XmlConfigurationProvider.java:207) Parsing configuration file [struts-plugin.xml]
+TRACE [localhost-startStop-1] 2018-04-01 15:57:14 (XmlConfigurationProvider.java:207) Parsing configuration file [struts.xml]
+TRACE [localhost-startStop-1] 2018-04-01 15:57:14 (AbstractBeanSelectionProvider.java:66) Choosing bean (struts) for (com.opensymphony.xwork2.ObjectFactory)
+TRACE [localhost-startStop-1] 2018-04-01 15:57:14 (AbstractBeanSelectionProvider.java:66) Choosing bean (struts) for (com.opensymphony.xwork2.factory.ActionFactory)
+TRACE [localhost-startStop-1] 2018-04-01 15:57:14 (AbstractBeanSelectionProvider.java:66) Choosing bean (struts) for (com.opensymphony.xwork2.factory.ResultFactory)
+TRACE [localhost-startStop-1] 2018-04-01 15:57:14 (AbstractBeanSelectionProvider.java:66) Choosing bean (struts) for (com.opensymphony.xwork2.factory.ConverterFactory)
+TRACE [localhost-startStop-1] 2018-04-01 15:57:14 (AbstractBeanSelectionProvider.java:66) Choosing bean (struts) for (com.opensymphony.xwork2.factory.InterceptorFactory)
+TRACE [localhost-startStop-1] 2018-04-01 15:57:14 (AbstractBeanSelectionProvider.java:66) Choosing bean (struts) for (com.opensymphony.xwork2.factory.ValidatorFactory)
+TRACE [localhost-startStop-1] 2018-04-01 15:57:14 (AbstractBeanSelectionProvider.java:66) Choosing bean (struts) for (com.opensymphony.xwork2.factory.UnknownHandlerFactory)
+TRACE [localhost-startStop-1] 2018-04-01 15:57:14 (AbstractBeanSelectionProvider.java:66) Choosing bean (struts) for (com.opensymphony.xwork2.FileManagerFactory)
+TRACE [localhost-startStop-1] 2018-04-01 15:57:14 (AbstractBeanSelectionProvider.java:66) Choosing bean (struts) for (com.opensymphony.xwork2.conversion.impl.XWorkConverter)
+TRACE [localhost-startStop-1] 2018-04-01 15:57:14 (AbstractBeanSelectionProvider.java:66) Choosing bean (struts) for (com.opensymphony.xwork2.conversion.impl.CollectionConverter)
+TRACE [localhost-startStop-1] 2018-04-01 15:57:14 (AbstractBeanSelectionProvider.java:66) Choosing bean (struts) for (com.opensymphony.xwork2.conversion.impl.ArrayConverter)
+TRACE [localhost-startStop-1] 2018-04-01 15:57:14 (AbstractBeanSelectionProvider.java:66) Choosing bean (struts) for (com.opensymphony.xwork2.conversion.impl.DateConverter)
+TRACE [localhost-startStop-1] 2018-04-01 15:57:14 (AbstractBeanSelectionProvider.java:66) Choosing bean (struts) for (com.opensymphony.xwork2.conversion.impl.NumberConverter)
+TRACE [localhost-startStop-1] 2018-04-01 15:57:14 (AbstractBeanSelectionProvider.java:66) Choosing bean (struts) for (com.opensymphony.xwork2.conversion.impl.StringConverter)
+TRACE [localhost-startStop-1] 2018-04-01 15:57:14 (AbstractBeanSelectionProvider.java:66) Choosing bean (struts) for (com.opensymphony.xwork2.conversion.ConversionPropertiesProcessor)
+TRACE [localhost-startStop-1] 2018-04-01 15:57:14 (AbstractBeanSelectionProvider.java:66) Choosing bean (struts) for (com.opensymphony.xwork2.conversion.ConversionFileProcessor)
+TRACE [localhost-startStop-1] 2018-04-01 15:57:14 (AbstractBeanSelectionProvider.java:66) Choosing bean (struts) for (com.opensymphony.xwork2.conversion.ConversionAnnotationProcessor)
+TRACE [localhost-startStop-1] 2018-04-01 15:57:14 (AbstractBeanSelectionProvider.java:66) Choosing bean (struts) for (com.opensymphony.xwork2.conversion.TypeConverterCreator)
+TRACE [localhost-startStop-1] 2018-04-01 15:57:14 (AbstractBeanSelectionProvider.java:66) Choosing bean (struts) for (com.opensymphony.xwork2.conversion.TypeConverterHolder)
+TRACE [localhost-startStop-1] 2018-04-01 15:57:14 (AbstractBeanSelectionProvider.java:75) Choosing bean (struts) for (com.opensymphony.xwork2.TextProvider) to be loaded from the ObjectFactory
+TRACE [localhost-startStop-1] 2018-04-01 15:57:14 (AbstractBeanSelectionProvider.java:75) Choosing bean (struts) for (com.opensymphony.xwork2.TextProvider) to be loaded from the ObjectFactory
+TRACE [localhost-startStop-1] 2018-04-01 15:57:14 (AbstractBeanSelectionProvider.java:66) Choosing bean (struts) for (com.opensymphony.xwork2.TextProviderFactory)
+TRACE [localhost-startStop-1] 2018-04-01 15:57:14 (AbstractBeanSelectionProvider.java:66) Choosing bean (struts) for (com.opensymphony.xwork2.LocaleProviderFactory)
+TRACE [localhost-startStop-1] 2018-04-01 15:57:14 (AbstractBeanSelectionProvider.java:66) Choosing bean (struts) for (com.opensymphony.xwork2.LocalizedTextProvider)
+TRACE [localhost-startStop-1] 2018-04-01 15:57:14 (AbstractBeanSelectionProvider.java:66) Choosing bean (struts) for (com.opensymphony.xwork2.ActionProxyFactory)
+TRACE [localhost-startStop-1] 2018-04-01 15:57:14 (AbstractBeanSelectionProvider.java:66) Choosing bean (struts) for (com.opensymphony.xwork2.conversion.ObjectTypeDeterminer)
+TRACE [localhost-startStop-1] 2018-04-01 15:57:14 (AbstractBeanSelectionProvider.java:66) Choosing bean (struts) for (org.apache.struts2.dispatcher.mapper.ActionMapper)
+TRACE [localhost-startStop-1] 2018-04-01 15:57:14 (AbstractBeanSelectionProvider.java:66) Choosing bean (jakarta) for (org.apache.struts2.dispatcher.multipart.MultiPartRequest)
+TRACE [localhost-startStop-1] 2018-04-01 15:57:14 (AbstractBeanSelectionProvider.java:66) Choosing bean (struts) for (org.apache.struts2.views.freemarker.FreemarkerManager)
+TRACE [localhost-startStop-1] 2018-04-01 15:57:14 (AbstractBeanSelectionProvider.java:75) Choosing bean (struts) for (org.apache.struts2.views.velocity.VelocityManager) to be loaded from the ObjectFactory
+TRACE [localhost-startStop-1] 2018-04-01 15:57:14 (AbstractBeanSelectionProvider.java:66) Choosing bean (struts) for (org.apache.struts2.components.UrlRenderer)
+TRACE [localhost-startStop-1] 2018-04-01 15:57:14 (AbstractBeanSelectionProvider.java:66) Choosing bean (struts) for (com.opensymphony.xwork2.validator.ActionValidatorManager)
+TRACE [localhost-startStop-1] 2018-04-01 15:57:14 (AbstractBeanSelectionProvider.java:66) Choosing bean (struts) for (com.opensymphony.xwork2.util.ValueStackFactory)
+TRACE [localhost-startStop-1] 2018-04-01 15:57:14 (AbstractBeanSelectionProvider.java:66) Choosing bean (struts) for (com.opensymphony.xwork2.util.reflection.ReflectionProvider)
+TRACE [localhost-startStop-1] 2018-04-01 15:57:14 (AbstractBeanSelectionProvider.java:66) Choosing bean (struts) for (com.opensymphony.xwork2.util.reflection.ReflectionContextFactory)
+TRACE [localhost-startStop-1] 2018-04-01 15:57:14 (AbstractBeanSelectionProvider.java:66) Choosing bean (struts) for (com.opensymphony.xwork2.util.PatternMatcher)
+TRACE [localhost-startStop-1] 2018-04-01 15:57:14 (AbstractBeanSelectionProvider.java:66) Choosing bean (struts) for (org.apache.struts2.util.ContentTypeMatcher)
+TRACE [localhost-startStop-1] 2018-04-01 15:57:14 (AbstractBeanSelectionProvider.java:66) Choosing bean (struts) for (org.apache.struts2.dispatcher.StaticContentLoader)
+TRACE [localhost-startStop-1] 2018-04-01 15:57:14 (AbstractBeanSelectionProvider.java:66) Choosing bean (struts) for (com.opensymphony.xwork2.UnknownHandlerManager)
+TRACE [localhost-startStop-1] 2018-04-01 15:57:14 (AbstractBeanSelectionProvider.java:66) Choosing bean (struts) for (org.apache.struts2.views.util.UrlHelper)
+TRACE [localhost-startStop-1] 2018-04-01 15:57:14 (AbstractBeanSelectionProvider.java:66) Choosing bean (struts) for (com.opensymphony.xwork2.util.TextParser)
+TRACE [localhost-startStop-1] 2018-04-01 15:57:14 (AbstractBeanSelectionProvider.java:66) Choosing bean (struts) for (org.apache.struts2.dispatcher.DispatcherErrorHandler)
+TRACE [localhost-startStop-1] 2018-04-01 15:57:14 (AbstractBeanSelectionProvider.java:66) Choosing bean (struts) for (com.opensymphony.xwork2.security.ExcludedPatternsChecker)
+TRACE [localhost-startStop-1] 2018-04-01 15:57:14 (AbstractBeanSelectionProvider.java:66) Choosing bean (struts) for (com.opensymphony.xwork2.security.AcceptedPatternsChecker)
+TRACE [localhost-startStop-1] 2018-04-01 15:57:14 (DefaultAcceptedPatternsChecker.java:73) Sets accepted patterns [[\w+((\.\w+)|(\[\d+\])|(\(\d+\))|(\['(\w|[\u4e00-\u9fa5])+'\])|(\('(\w|[\u4e00-\u9fa5])+'\)))*]]
+TRACE [localhost-startStop-1] 2018-04-01 15:57:14 (DefaultExcludedPatternsChecker.java:84) Sets excluded patterns [[(^|\%\{)((#?)(top(\.|\['|\[")|\[\d\]\.)?)(dojo|struts|session|request|response|application|servlet(Request|Response|Context)|parameters|context|_memberAccess)(\.|\[).*, .*(^|\.|\[|\'|"|get)class(\(\.|\[|\'|").*]]
+TRACE [localhost-startStop-1] 2018-04-01 15:57:14 (DefaultAcceptedPatternsChecker.java:73) Sets accepted patterns [[\w+((\.\w+)|(\[\d+\])|(\(\d+\))|(\['(\w|[\u4e00-\u9fa5])+'\])|(\('(\w|[\u4e00-\u9fa5])+'\)))*]]
+TRACE [localhost-startStop-1] 2018-04-01 15:57:14 (DefaultExcludedPatternsChecker.java:84) Sets excluded patterns [[(^|\%\{)((#?)(top(\.|\['|\[")|\[\d\]\.)?)(dojo|struts|session|request|response|application|servlet(Request|Response|Context)|parameters|context|_memberAccess)(\.|\[).*, .*(^|\.|\[|\'|"|get)class(\(\.|\[|\'|").*]]
+TRACE [localhost-startStop-1] 2018-04-01 15:57:14 (DefaultAcceptedPatternsChecker.java:73) Sets accepted patterns [[\w+((\.\w+)|(\[\d+\])|(\(\d+\))|(\['(\w|[\u4e00-\u9fa5])+'\])|(\('(\w|[\u4e00-\u9fa5])+'\)))*]]
+TRACE [localhost-startStop-1] 2018-04-01 15:57:14 (DefaultExcludedPatternsChecker.java:84) Sets excluded patterns [[(^|\%\{)((#?)(top(\.|\['|\[")|\[\d\]\.)?)(dojo|struts|session|request|response|application|servlet(Request|Response|Context)|parameters|context|_memberAccess)(\.|\[).*, .*(^|\.|\[|\'|"|get)class(\(\.|\[|\'|").*]]
+TRACE [localhost-startStop-1] 2018-04-01 15:57:14 (DefaultAcceptedPatternsChecker.java:73) Sets accepted patterns [[\w+((\.\w+)|(\[\d+\])|(\(\d+\))|(\['(\w|[\u4e00-\u9fa5])+'\])|(\('(\w|[\u4e00-\u9fa5])+'\)))*]]
+TRACE [localhost-startStop-1] 2018-04-01 15:57:14 (DefaultExcludedPatternsChecker.java:84) Sets excluded patterns [[(^|\%\{)((#?)(top(\.|\['|\[")|\[\d\]\.)?)(dojo|struts|session|request|response|application|servlet(Request|Response|Context)|parameters|context|_memberAccess)(\.|\[).*, .*(^|\.|\[|\'|"|get)class(\(\.|\[|\'|").*]]
+TRACE [localhost-startStop-1] 2018-04-01 15:57:14 (DefaultAcceptedPatternsChecker.java:73) Sets accepted patterns [[\w+((\.\w+)|(\[\d+\])|(\(\d+\))|(\['(\w|[\u4e00-\u9fa5])+'\])|(\('(\w|[\u4e00-\u9fa5])+'\)))*]]
+TRACE [localhost-startStop-1] 2018-04-01 15:57:14 (DefaultExcludedPatternsChecker.java:84) Sets excluded patterns [[(^|\%\{)((#?)(top(\.|\['|\[")|\[\d\]\.)?)(dojo|struts|session|request|response|application|servlet(Request|Response|Context)|parameters|context|_memberAccess)(\.|\[).*, .*(^|\.|\[|\'|"|get)class(\(\.|\[|\'|").*]]
+TRACE [localhost-startStop-1] 2018-04-01 15:57:14 (DefaultAcceptedPatternsChecker.java:73) Sets accepted patterns [[\w+((\.\w+)|(\[\d+\])|(\(\d+\))|(\['(\w|[\u4e00-\u9fa5])+'\])|(\('(\w|[\u4e00-\u9fa5])+'\)))*]]
+TRACE [localhost-startStop-1] 2018-04-01 15:57:14 (DefaultExcludedPatternsChecker.java:84) Sets excluded patterns [[(^|\%\{)((#?)(top(\.|\['|\[")|\[\d\]\.)?)(dojo|struts|session|request|response|application|servlet(Request|Response|Context)|parameters|context|_memberAccess)(\.|\[).*, .*(^|\.|\[|\'|"|get)class(\(\.|\[|\'|").*]]
+TRACE [localhost-startStop-1] 2018-04-01 15:57:14 (DefaultAcceptedPatternsChecker.java:73) Sets accepted patterns [[\w+((\.\w+)|(\[\d+\])|(\(\d+\))|(\['(\w|[\u4e00-\u9fa5])+'\])|(\('(\w|[\u4e00-\u9fa5])+'\)))*]]
+TRACE [localhost-startStop-1] 2018-04-01 15:57:14 (DefaultExcludedPatternsChecker.java:84) Sets excluded patterns [[(^|\%\{)((#?)(top(\.|\['|\[")|\[\d\]\.)?)(dojo|struts|session|request|response|application|servlet(Request|Response|Context)|parameters|context|_memberAccess)(\.|\[).*, .*(^|\.|\[|\'|"|get)class(\(\.|\[|\'|").*]]
+TRACE [http-bio-8088-exec-1] 2018-04-01 15:57:23 (StrutsPrepareAndExecuteFilter.java:127) Checking if /index.jsp is a static resource
+TRACE [http-bio-8088-exec-1] 2018-04-01 15:57:23 (StrutsPrepareAndExecuteFilter.java:130) Assuming uri /index.jsp as a normal action
+TRACE [http-bio-8088-exec-1] 2018-04-01 15:57:23 (StrutsPrepareAndExecuteFilter.java:137) Cannot find mapping for /index.jsp, passing to other filters
+TRACE [http-bio-8088-exec-2] 2018-04-01 15:57:24 (StrutsPrepareAndExecuteFilter.java:127) Checking if /getLog4j2 is a static resource
+TRACE [http-bio-8088-exec-2] 2018-04-01 15:57:24 (StrutsPrepareAndExecuteFilter.java:130) Assuming uri /getLog4j2 as a normal action
+TRACE [http-bio-8088-exec-2] 2018-04-01 15:57:24 (StrutsPrepareAndExecuteFilter.java:140) Found mapping ActionMapping{name='getLog4j2', namespace='/', method='null', extension='null', params={}, result=null} for /getLog4j2
+TRACE [http-bio-8088-exec-2] 2018-04-01 15:57:24 (DefaultActionInvocation.java:191) Creating result related to resultCode [success]

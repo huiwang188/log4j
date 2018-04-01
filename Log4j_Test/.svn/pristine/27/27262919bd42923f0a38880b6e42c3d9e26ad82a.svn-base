@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE struts PUBLIC
+	"-//Apache Software Foundation//DTD Struts Configuration 2.5//EN"
+	"http://struts.apache.org/dtds/struts-2.5.dtd">
+
+<!-- START SNIPPET: xworkSample -->
+<struts>
+	<include file="struts-default.xml"></include>
+   	<!-- 开发模式下使用，可以打印更多详细错误信息 -->
+    <constant name="struts.devMode" value="false" />
+    <!-- 当struts的配置文件修改后，系统是否自动加载改文件，默认flase(生成环境下使用），开发阶段打开 -->
+    <constant name="struts.configuration.xml.reload" value="true" />
+	<!-- 设置浏览器是否缓存静态内容,默认值为true(生产环境下使用),开发阶段最好关闭 -->
+    <constant name="struts.serve.static.browserCache" value="false" />
+    
+	<package name="Log4j_01" extends="struts-default" namespace="/">
+		<action name="getIndex" class="com.abc.action.IndexAction" method="getIndex">
+			<result>/success.jsp</result>
+		</action>
+		<action name="getLog4j2" class="com.abc.action.Log4j2Action">
+			<result>/success.jsp</result>
+		</action>
+	</package>
+</struts>

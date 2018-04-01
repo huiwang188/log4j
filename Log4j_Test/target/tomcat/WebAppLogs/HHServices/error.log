@@ -1,0 +1,2 @@
+ERROR [http-bio-8088-exec-2] 2018-04-01 15:57:24 (Log4j2Action.java:22) 访问了error
+FATAL [http-bio-8088-exec-2] 2018-04-01 15:57:24 (Log4j2Action.java:24) 访问了fatal

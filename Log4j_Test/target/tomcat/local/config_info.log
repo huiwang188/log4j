@@ -1,0 +1,2 @@
+[2018-04-01 12:31:26:653] [INFO] - com.abc.action.Log4j2Action.execute(Log4j2Action.java:20) - 访问了info
+[2018-04-01 13:01:38:511] [INFO] - com.abc.action.Log4j2Action.execute(Log4j2Action.java:20) - 访问了info

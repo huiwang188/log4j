@@ -1,0 +1,48 @@
+DEBUG [http-bio-8088-exec-2] 2018-04-01 15:57:24 (ConfigurationManager.java:175) Checking ConfigurationProviders for reload.
+DEBUG [http-bio-8088-exec-2] 2018-04-01 15:57:24 (ConfigurationManager.java:192) Updating [reloadXmlConfiguration], current value is [true], new value [true]
+DEBUG [http-bio-8088-exec-2] 2018-04-01 15:57:24 (InstantiatingNullHandler.java:98) Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@136b9aa], property=struts]
+DEBUG [http-bio-8088-exec-2] 2018-04-01 15:57:24 (InstantiatingNullHandler.java:98) Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@136b9aa], property=struts]
+DEBUG [http-bio-8088-exec-2] 2018-04-01 15:57:24 (DefaultActionProxy.java:86) Creating an DefaultActionProxy for namespace [/] and action name [getLog4j2]
+DEBUG [http-bio-8088-exec-2] 2018-04-01 15:57:24 (I18nInterceptor.java:101) Intercept '//getLog4j2'
+DEBUG [http-bio-8088-exec-2] 2018-04-01 15:57:24 (I18nInterceptor.java:146) Using LocaleFinder implementation org.apache.struts2.interceptor.I18nInterceptor$SessionLocaleHandler
+DEBUG [http-bio-8088-exec-2] 2018-04-01 15:57:24 (I18nInterceptor.java:226) Searching locale in request under parameter request_only_locale
+DEBUG [http-bio-8088-exec-2] 2018-04-01 15:57:24 (I18nInterceptor.java:273) Searching locale in request under parameter request_locale
+DEBUG [http-bio-8088-exec-2] 2018-04-01 15:57:24 (I18nInterceptor.java:300) Checks session for saved locale
+DEBUG [http-bio-8088-exec-2] 2018-04-01 15:57:24 (I18nInterceptor.java:319) No Locale defined in session, fetching from current request and it won't be stored in session!
+DEBUG [http-bio-8088-exec-2] 2018-04-01 15:57:24 (I18nInterceptor.java:243) Searching current Invocation context
+DEBUG [http-bio-8088-exec-2] 2018-04-01 15:57:24 (I18nInterceptor.java:247) Applied invocation context locale: zh_CN
+DEBUG [http-bio-8088-exec-2] 2018-04-01 15:57:24 (SecurityMemberAccess.java:60) Checking access for [target: com.abc.action.Log4j2Action@6b0147e0, member: public java.util.Locale com.opensymphony.xwork2.ActionSupport.getLocale(), property: locale]
+DEBUG [http-bio-8088-exec-2] 2018-04-01 15:57:24 (SecurityMemberAccess.java:60) Checking access for [target: com.abc.action.Log4j2Action@6b0147e0, member: public java.util.Locale com.opensymphony.xwork2.ActionSupport.getLocale(), property: locale]
+DEBUG [http-bio-8088-exec-2] 2018-04-01 15:57:24 (I18nInterceptor.java:117) Before action invocation Locale=zh_CN
+DEBUG [http-bio-8088-exec-2] 2018-04-01 15:57:24 (AbstractLocalizedTextProvider.java:384) Missing resource bundle [org.apache.struts2.interceptor.FileUploadInterceptor]!
+DEBUG [http-bio-8088-exec-2] 2018-04-01 15:57:24 (AbstractLocalizedTextProvider.java:384) Missing resource bundle [com.opensymphony.xwork2.interceptor.AbstractInterceptor]!
+DEBUG [http-bio-8088-exec-2] 2018-04-01 15:57:24 (AbstractLocalizedTextProvider.java:384) Missing resource bundle [com.opensymphony.xwork2.interceptor.Interceptor]!
+DEBUG [http-bio-8088-exec-2] 2018-04-01 15:57:24 (AbstractLocalizedTextProvider.java:384) Missing resource bundle [java.lang.Object]!
+DEBUG [http-bio-8088-exec-2] 2018-04-01 15:57:24 (AbstractLocalizedTextProvider.java:384) Missing resource bundle [org.apache.struts2.interceptor.package]!
+DEBUG [http-bio-8088-exec-2] 2018-04-01 15:57:24 (AbstractLocalizedTextProvider.java:384) Missing resource bundle [org.apache.struts2.package]!
+DEBUG [http-bio-8088-exec-2] 2018-04-01 15:57:24 (AbstractLocalizedTextProvider.java:384) Missing resource bundle [org.apache.package]!
+DEBUG [http-bio-8088-exec-2] 2018-04-01 15:57:24 (AbstractLocalizedTextProvider.java:384) Missing resource bundle [org.package]!
+DEBUG [http-bio-8088-exec-2] 2018-04-01 15:57:24 (AbstractLocalizedTextProvider.java:384) Missing resource bundle [com.opensymphony.xwork2.interceptor.package]!
+DEBUG [http-bio-8088-exec-2] 2018-04-01 15:57:24 (AbstractLocalizedTextProvider.java:384) Missing resource bundle [com.opensymphony.xwork2.package]!
+DEBUG [http-bio-8088-exec-2] 2018-04-01 15:57:24 (AbstractLocalizedTextProvider.java:384) Missing resource bundle [com.opensymphony.package]!
+DEBUG [http-bio-8088-exec-2] 2018-04-01 15:57:24 (AbstractLocalizedTextProvider.java:384) Missing resource bundle [com.package]!
+DEBUG [http-bio-8088-exec-2] 2018-04-01 15:57:24 (InstantiatingNullHandler.java:98) Entering nullPropertyValue [target=[com.abc.action.Log4j2Action@6b0147e0, com.opensymphony.xwork2.DefaultTextProvider@136b9aa], property=struts]
+DEBUG [http-bio-8088-exec-2] 2018-04-01 15:57:24 (FileUploadInterceptor.java:240) Bypassing //getLog4j2
+DEBUG [http-bio-8088-exec-2] 2018-04-01 15:57:24 (StaticParametersInterceptor.java:140) Setting static parameters: {}
+DEBUG [http-bio-8088-exec-2] 2018-04-01 15:57:24 (ParametersInterceptor.java:118) Setting params 
+DEBUG [http-bio-8088-exec-2] 2018-04-01 15:57:24 (ParametersInterceptor.java:118) Setting params 
+DEBUG [http-bio-8088-exec-2] 2018-04-01 15:57:24 (ValidationInterceptor.java:219) Validating //getLog4j2 with method execute.
+DEBUG [http-bio-8088-exec-2] 2018-04-01 15:57:24 (ValidationInterceptor.java:236) Invoking validate() on action com.abc.action.Log4j2Action@6b0147e0
+DEBUG [http-bio-8088-exec-2] 2018-04-01 15:57:24 (PrefixMethodInvocationUtil.java:160) Cannot find method [validateExecute] in action [com.abc.action.Log4j2Action@6b0147e0]
+DEBUG [http-bio-8088-exec-2] 2018-04-01 15:57:24 (PrefixMethodInvocationUtil.java:160) Cannot find method [validateDoExecute] in action [com.abc.action.Log4j2Action@6b0147e0]
+DEBUG [http-bio-8088-exec-2] 2018-04-01 15:57:24 (DefaultActionInvocation.java:430) Executing action method = execute
+DEBUG [http-bio-8088-exec-2] 2018-04-01 15:57:24 (SecurityMemberAccess.java:60) Checking access for [target: com.abc.action.Log4j2Action@6b0147e0, member: public java.lang.String com.abc.action.Log4j2Action.execute(), property: null]
+DEBUG [http-bio-8088-exec-2] 2018-04-01 15:57:24 (Log4j2Action.java:23) ∑√Œ ¡Àdebug
+DEBUG [http-bio-8088-exec-2] 2018-04-01 15:57:24 (SecurityMemberAccess.java:60) Checking access for [target: org.apache.struts2.result.ServletDispatcherResult@2313a1e8, member: public void org.apache.struts2.result.StrutsResultSupport.setLocation(java.lang.String), property: location]
+DEBUG [http-bio-8088-exec-2] 2018-04-01 15:57:24 (SecurityMemberAccess.java:60) Checking access for [target: org.apache.struts2.result.ServletDispatcherResult@2313a1e8, member: public void org.apache.struts2.result.StrutsResultSupport.setLocation(java.lang.String), property: location]
+DEBUG [http-bio-8088-exec-2] 2018-04-01 15:57:24 (ServletDispatcherResult.java:127) Forwarding to location: /success.jsp
+DEBUG [http-bio-8088-exec-2] 2018-04-01 15:57:24 (InstantiatingNullHandler.java:98) Entering nullPropertyValue [target=[com.abc.action.Log4j2Action@6b0147e0, com.opensymphony.xwork2.DefaultTextProvider@136b9aa], property=struts]
+DEBUG [http-bio-8088-exec-2] 2018-04-01 15:57:24 (InstantiatingNullHandler.java:98) Entering nullPropertyValue [target=[com.abc.action.Log4j2Action@6b0147e0, com.opensymphony.xwork2.DefaultTextProvider@136b9aa], property=org]
+DEBUG [http-bio-8088-exec-2] 2018-04-01 15:57:24 (SecurityMemberAccess.java:60) Checking access for [target: com.abc.action.Log4j2Action@6b0147e0, member: public java.util.Locale com.opensymphony.xwork2.ActionSupport.getLocale(), property: locale]
+DEBUG [http-bio-8088-exec-2] 2018-04-01 15:57:24 (SecurityMemberAccess.java:60) Checking access for [target: com.abc.action.Log4j2Action@6b0147e0, member: public java.util.Locale com.opensymphony.xwork2.ActionSupport.getLocale(), property: locale]
+DEBUG [http-bio-8088-exec-2] 2018-04-01 15:57:24 (I18nInterceptor.java:124) After action invocation Locale=zh_CN
